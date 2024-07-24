@@ -1,0 +1,878 @@
+le	ἀγαθοουργία		DELETE
+no	ἀγαθοουργι	h_hs fem	DELETE
+le	ἀδικία
+no	ἀ-δῐκι	h_hs fem stem_acc
+le	ἀδυναμία
+no	ἀ-δῠνᾰμι	h_hs fem stem_acc
+le	ἀνεμοφθορία	CHANGE added a ν
+no	ἀνεμοφθορι	h_hs fem	DITTO ἀνεμο-
+le	ἀηθία		lemmatize as ἀήθεια
+no	ἀηθι	h_hs fem
+le	ἀθεία		need diaeresis ἀθεΐα
+no	ἀθει	h_hs fem
+le	ἀθλοθεσία
+no	ἀθλοθεσι	h_hs fem
+**le	ἀθλοθετία		DELETE this lemma add to previous
+no	ἀθλοθετι	h_hs fem
+**le	ἀθλονικία		DELETE, see under ἀεθλο..
+**no	ἀεθλο-νικι	h_hs fem stem_acc poetic
+le	αἰγυπτία
+no	αἰγυπτι	h_hs fem
+le	ἀϊδρείη
+no	ἀ-ϊδρει	h_hs fem stem_acc
+no	"ἀ-ϊδρι	h_hs fem	stem_acc"
+le	Ἀιδωναία		add diaeresis Ἀϊδωναία
+no	Ἀιδωναι	h_hs fem
+le	αἰθρία
+no	"αἰθρι	h_hs	stem_acc	fem"
+le	αἱλιφθορία		DELETE data entry issue
+no	αἱλιφθορι	h_hs fem	DELETE
+le	αἱμακουρία
+no	αἱμακουρι	h_hs stem_acc fem
+no	αἱμοκουρι	h_hs stem_acc fem
+le	αἱμακουρία		DELETE (see above)
+no	αἱμα-κουρι	h_hs fem stem_acc	DELETE
+le	αἰωρία		NOT found DELETE
+no	αἰωρι	h_hs fem
+le	ἀκρατοποσία		QUOTE marks again?
+no	"ἀκρᾱτο-ποσι	h_hs	stem_acc	fem"
+no	ἀκρητο-ποσι	h_hs stem_acc fem  ionic
+le	ἀκραχολία
+no	ἀκρᾱ-χολι	h_hs fem stem_acc
+**no	ἀκρη-χολι	h_hs fem stem_acc ionic	Need to add this?
+no	ἀκρο-χολι	h_hs fem stem_acc
+le	Ἀκυληία			add diaeresis
+no	Ἀκυληι	h_hs fem geog_name
+le	ἀκυροωσία		DELETE
+no	ἀκυροωσι	h_hs fem	DELETE
+le	ἀκυρωσία		ADD
+no	ἀκυρωσι	h_hs fem	ADD
+le	ἁλιεία
+no	ἁλει	h_hs fem	Consolidated the two forms here
+no	ἁλιει	h_hs fem
+*le	ἀλῃσία		ADD Iota subscript
+*no	ἀλῃσι	h_hs fem
+le	ἁλία
+no	ἁλι	h_hs fem stem_acc
+le	ἁλιαία
+no	ἁλιαι	h_hs fem
+le	ἁλιεία		DELETE
+no	ἁλιει	h_hs stem_acc fem	DELETE see above
+*le	ἁλικία		DELETE see ἡλικία
+*no	ἁλικι	h_hs fem	DELETE see ἡλικία
+le	ἀλκαία
+no	ἀλκαι	h_hs fem
+le	Ἀλκαία		ΑDD this name
+no	Ἀλκαι	h_hs fem	ΑDD this name
+le	ἀλληλαϝεμία		DELETE
+no	ἀλληλαϝεμι	h_hs fem	DELETE
+le	ἀλληλανεμία		ADD
+no	ἀλληλανεμι	h_hs fem	ADD
+le	ἀλληλοφονία
+no	"ἀλλᾱλο-φονι	h_hs fem doric	stem_acc"
+no	"ἀλληλο-φονι	h_hs fem	stem_acc"
+**le	Ἀλλία		DELETE should be the masc a decl in -as??
+**no	Ἀλλι	h_hs fem geog_name
+le	ἀλουσία
+no	ἀ-λουσι	h_hs stem_acc fem
+le	ἀλουτία		DELETE; MERGE with previous
+no	ἀλουτι	h_hs fem
+le	ἁλωνεία		MERGE with following
+no	ἁλωνει	h_hs fem
+le	ἁλωνία
+no	ἁλωνι	h_hs fem
+le	ἀμελία
+no	ἀμελι	h_hs fem	Lemmatize with ἀμέλεια instead
+*le	ἀμεμφεία		Lemmatize with εια (changed lemma)
+no	ἀ-μεμφι	h_hs stem_acc fem
+no	ἀ-μεμφει	h_hs stem_acc fem
+le	ἀμηχανία
+no	ἀμᾱχᾰνι	h_hs stem_acc fem doric
+le	ἀμηχανία		MERGE with previous
+no	ἀ-μηχᾰνι	h_hs stem_acc fem
+le	ἀμιξία
+no	ἀμῑξι	h_hs stem_acc fem
+no	ἀμειξι	h_hs stem_acc fem
+le	ἀμειξία		DELETE this lemma
+no	ἀμειξι	h_hs fem	DELETE
+le	ἀμμία
+no	ἀμμι	h_hs fem
+le	Ἀμμία		ADD from DGE
+no	Ἀμμι	h_hs fem	ADD from DGE
+le	ἀμμορία
+no	ἀ-μμορι	h_hs stem_acc fem
+no	ἀ-μορι	h_hs stem_acc fem	DELETE not attested
+le	ἀμορία			DELETE not attested
+no	ἀ-μορι	h_hs stem_acc fem	DELETE not attested
+le	ἀμπλακία
+no	ἀμπλακι	h_hs fem
+no	ἀμβλακι	h_hs fem		ADD Septuagint
+le	ἀμφιία			DELETE not found
+no	ἀμφιι	h_hs fem
+le	Ἀμφικτυονεία			DELETE merge w/ next
+no	Ἀμφικτυονει	h_hs fem
+le	Ἀμφικτυονία
+no	Ἀμφι-κτυονι	h_hs stem_acc fem
+no	Ἀμφι-κτυονει	h_hs stem_acc fem
+le	ἀμφιπολία			LEMMA changed
+no	ἀμφιπολι	h_hs fem
+no	ἀμφιπολει	h_hs fem
+le	ἀναριστία			REMOVE duplicate
+no	ἀναριστι	h_hs fem
+le	ἀνδρεία
+no	ἀνδρει	h_hs stem_acc fem
+no	ἀνδρι	h_hs stem_acc fem
+no	ἀνορι	h_hs fem comp_only	#does this do anything?
+*le	ἀνεπιιστία			DELETE see below
+*no	ἀνεπιιστι	h_hs fem		DELETE see below
+le	ἀνεπιλογιστία
+no	ἀνεπιλογιστι	h_hs fem
+le	ἀνία
+no	ἀνι	h_hs stem_acc fem
+no	ὀνι	h_hs stem_acc fem aeolic
+le	ἀνικία			CORRECT DIACRITIC
+no	ἀνῑκι	h_hs fem
+le	ἀνοησία
+no	ἀνοησι	h_hs fem
+le	ἀνοητία		MERGE with previous
+no	ἀνοητι	h_hs fem
+**le	ἄνοια		INSERT this lemma
+no	ἀ-νοι	h_hs stem_acc fem attic early 
+no	ἀ-νοι	h_hs stem_acc fem epic 
+le	ἀνομοία			DELETE
+no	ἀνομοι	h_hs stem_acc fem	DELETE data entry?
+*le	ἀνταυγεία		CORRECT TO ἀνταύγεια
+*no	ἀνταυγει	h_hs stem_acc fem
+le	ἀνταυγία		JOIN to ἀνταύγεια
+no	ἀνταυγι	h_hs fem
+le	Ἀντία
+no	Ἀντι	h_hs fem geog_name
+le	ἀπειρία
+no	ἀ-πειρι	h_hs stem_acc fem
+no	ἀ-πειρει	h_hs stem_acc fem poetic
+le	ἀπειρία2			IS THIS HOW THAT WORKS?
+no	ἀ-πειρι	h_hs stem_acc fem
+*le	ἀπειροπληθία		CHANGE LEMMA to ἀπειροπλήθεια
+no	ἀπειροπληθι	h_hs fem
+*le	ἀπλακία		DELETE 
+no	"ἀ-πλακι	h_hs fem	stem_acc"
+*le	ἀπρομηθία		LEMMATIZE w/ ἀπρομήθεια
+no	ἀπρομηθι	h_hs fem stem_acc
+le	ἀπωθία
+no	ἀπωθι	h_hs fem
+le	ἀπωλία		LEMMATIZE w/ ἀπώλεια
+no	ἀπωλι	h_hs fem
+Need lemma, not an ία noun. le	ἀρειά
+no	ἀρει	h_hs  suff_acc  fem
+no	ἀ̆ρει	h_hs suff_acc fem ionic
+*le	ἀρεσκεία		CHANGE LEMMA to ἀρέσκεια
+no	ἀρεσκει	h_hs stem_acc fem	acceptable variant (late)
+le	ἀρία
+no	ἀρι	h_hs fem
+le	ἁρματοτροφία
+no	ἁρματοτροφι	h_hs stem_acc fem
+*ADD lemma?	ἁρματοτροχιά
+no	ἁρματο-τροχι	h_hs suff_acc fem
+no	ἁρμα-τροχι	h_hs suff_acc fem
+*le	ασία		unclear where this could be coming from. DELETE
+*no	ασι	h_hs fem
+**le	ἀτέλεια	ADDING LEMMΑ
+no	ἀτελι	h_hs fem ionic
+no	ἀτελει	h_hs fem ionic
+le	αὐτοεία		unclear data entry issue. DELETE. 
+no	αὐτοει	h_hs fem
+le	αὐτοεντία	CHANGE LEMMA to αὐθεντία
+no	αὐτοεντι	h_hs fem
+le	ἀφἀσία		DELETE prob = next?
+no	ἀφἀσι	h_hs fem
+le	ἀφιλοκαλοκαγαθία	removing brackets from lemma and word
+no	ἀφιλοκαλοκαγαθι	h_hs fem
+le	βαία		lemma βαΐα I assume
+no	βαι	h_hs fem
+le	βαρυδαιμονία		DUPLICATE w/next
+no	βαρυδαιμονι	h_hs fem stem_acc
+le	βαρυδαιμονία
+no	βαρυδαιμονι	h_hs fem stem_acc
+le	βατεία		DUPLICATE w/next
+no	βατει	h_hs fem
+le	βατεία
+no	βατει	h_hs fem
+no	βατι	h_hs fem suff_acc
+le	Βορθεία	Change lemma to Ὀρθεία (join to words there)
+no	Βορθει	h_hs fem
+le	βουλαία		change lemma to βουλεία; join with below
+no	βουλαι	h_hs fem
+le	βουναία		better as adjective βουναῖος
+no	βουναι	h_hs fem
+le	βραδυμαθία
+no	βραδυμαθι	h_hs fem
+ADD no	βραδυμαθεια	h_hs fem	with accent μάθεια so no stem_acc here
+le	γειτνία
+no	γειτνι	h_hs fem
+*le	γειτονεία		put under lemma γειτονία
+*no	γειτονει	h_hs fem
+le	γειτονία
+no	γειτονι	h_hs stem_acc fem
+le	γεροντεία
+no	γεροντει	h_hs fem
+*le	γεροντία		Delete: already under lemma γερουσία
+*no	γεροντι	h_hs fem
+le	γεροντομανία
+no	γεροντομανι	h_hs fem
+le	γερουσία
+no	γερουσι	h_hs stem_acc fem
+no	γεροντι	h_hs stem_acc fem Χen. doric laconian
+**le	γερωία	DELETE this lemma and merge w/ previous
+no	γερωι	h_hs fem laconian
+le	Γιγαντία
+no	Γιγαντι	h_hs fem
+le	Γιγαντομαχία
+no	Γιγαντομαχι	h_hs fem
+le	γιγαντομαχία		delete lemma and merge w/ previous
+no	γιγαντομαχι	h_hs fem stem_acc
+le	γυμνητεία
+no	γυμνητει	h_hs fem
+le	γυμνητία		delete lemma and merge w/ previous
+no	γυμνητι	h_hs stem_acc fem
+no	γυμνητει	h_hs stem_acc fem	delete, already covered
+le	change lemma gumnopaidi/ai to singular
+no	"Γυμνο-παιδι	h_hs fem pl	stem_acc"
+no	"γυμνο-παιδι	h_hs fem pl	stem_acc"
+le	δαιμονιοπληξία
+no	δαιμονιοπληξι	h_hs fem
+le	δαιμονοπληξία		drop and merge w/ previous
+no	δαιμονοπληξι	h_hs fem
+le	δεκαετία
+no	δεκαετι	h_hs fem stem_acc
+ADD no	δεκαετεια	h_hs fem		δεκαέτεια
+le	δεκαναία		add diaeresis δεκαναΐα
+no	δεκαναι	h_hs fem
+le	δευτεροδία
+no	δευτεροδι	h_hs fem
+ADD no	δευτερῳδι
+le	διεδρεία
+no	διεδρει	h_hs fem
+ADD no	διεδρι	h_hs fem
+**le	δικαία		ADD to lemma δίκη instead
+no	δικαι	h_hs fem
+le	δικτυία	CHANGE to δικτυεία
+ADD no	δικτυει	h_hs fem
+no	δικτυι	h_hs fem
+le	διπλεθρηία		DELETE; can't find -now see below
+no	διπλεθρηι	h_hs fem
+le	διπλεία		IN FACT!!! ADD
+no	διπλει	h_hs fem
+no	διπληι	h_hs fem
+ADD le	διχομηνία		don't know why this was missing
+ADD no	διχομηνι	h_hs fem
+le	διχομηνιαία		really an adj but never mind
+*le	Δορπία		merge w/ next lemma
+*no	Δορπι	h_hs fem
+le	δορπία
+no	δορπι	h_hs stem_acc fem
+*le	δυσεία		delete. entry found see below
+*no	δυσει	h_hs fem	
+ADD*le	δυστραπελία		ADD 
+ADD *no	δυστραπελι	h_hs fem stem_acc	ADD
+ADD no	δυστραπελει	h_hs fem	ADD this is δυστραπέλεια
+le	δυσμαθία
+no	δυσ-μᾰθι	h_hs stem_acc fem
+ΑDD no	δυσ-μᾰθει	h_hs fem	δυσμάθεια
+**le	δυσπαθία		LEMMA δυσπάθεια instead
+no	δυσπαθι	h_hs fem
+*le	δυσσεβία		LEMMA δυσσέβεια instead
+no	δυσ-σεβι	h_hs stem_acc fem
+le	εἰδωλολατρεία
+no	εἰδωλολατρει	h_hs stem_acc fem
+*le	εἰδωλολατρία		LEMMA w/previous
+no	εἰδωλολατρι	h_hs fem
+*le	ἑκηκονταετία		DELETE misprint in MidLid
+*no	ἑκηκοντα-ετι	h_hs stem_acc fem	DELETE
+le	Ἐλβία		CHANGE BREATHING	Ἑλβία
+no	Ἐλβι	h_hs fem pers_name	Ἑλβι
+le	ἐλεεινολογία
+no	ἐλεεινολογι	h_hs fem
+le	ἐλεινολογία		DROP LEMMA add to previous
+no	ἐλεινολογι	h_hs stem_acc
+le	Ἑλληνοταμιεία
+no	Ἑλληνοταμιει	h_hs fem
+le	ἑλληνοταμιεία		DROP; add to previous
+no	ἑλληνοταμιει	h_hs fem stem_acc
+le	ἐννεσία		DROP; add to ἐνεσία
+no	ἐννεσι	h_hs stem_acc fem
+le	ἐνοικδομία		INSERT ο ἐνοικοδομία
+no	ἐνοικδομι	h_hs fem	ἐνοικοδομι
+le	ἐξαγορία		CHANGE lemma to ἐξαγορεία
+no	ἐξαγορει	h_hs fem	ADD this form
+no	ἐξαγορι	h_hs fem
+le	ἐξοπλασία		MERGE under next, ἐξοπλισία
+no	ἐξοπλασι	h_hs fem
+le	ἐξοπλισία
+no	ἐξοπλῐσι	h_hs stem_acc fem
+le	ἐπαγορία		MERGE under ἐπηγορία 
+no	ἐπ-αγορι	h_hs,fem,stem_acc
+le	ἐπαρχεία		MERGE under ἐπαρχία
+no	ἐπαρχει	h_hs fem
+le	ἐπαρχία
+no	ἐπαρχι	h_hs stem_acc fem
+le	ἐπιμειξία
+no	ἐπιμειξι	h_hs fem
+le	ἐπιμιξία			DELETE go to ἐπιμειξία
+no	ἐπιμῑξι	h_hs stem_acc fem	merge w/ ἐπιμειξία
+no	ἐπιμειξι	h_hs stem_acc fem	DELETE
+le	ἑσία
+no	ἑσι	h_hs fem
+le	ἐσία		delete lemma; move to ἐσσία
+no	ἐσι	h_hs fem
+le	ἐσσία
+no	ἐσσι	h_hs fem stem_acc
+le	εὐαγορία		MERGE with εὐηγορία
+no	εὐαγορι	h_hs,fem,stem_acc
+le	εὐαγρεσία		NO LONGER in newer edd? delete
+no	εὐ-αγρεσι	h_hs stem_acc fem
+le	εὐγενία		lemmatize this w/ εὐγένεια
+no	εὐγενι	h_hs fem
+le	Εὐγενία		shows up as proper name in this spelling.
+no	Εὐγενι	h_hs fem
+le	εὐειδία		LEMMATIZE w/ εὐείδεια
+no	εὐειδι	h_hs fem
+le	εὐεργεσία
+no	εὐ-εργεσι	h_hs stem_acc fem
+no	ἐυ-εργεσι	h_hs stem_acc fem epic
+le	εὐεργετία		LEMMATIZE w/ previous εὐεργεσία
+no	εὐεργετι	h_hs fem
+no	εὐ-ηθει	h_hs fem
+no	εὐ-ηθι	h_hs fem
+le	εὐηθία		DELETE goes w/previous = εὐήθεια
+no	εὐηθι	h_hs fem
+no	εὐκλει	h_hs fem poetic ionic
+no	ἐυκλει	h_hs fem epic
+le	εὐοψία		DUPLICATE is this εὐοψία and εὐοψία2?
+no	εὐοψι	h_hs fem
+le	εὐοψία
+no	εὐοψι	h_hs fem
+le	εὐσεβία		lemmatize w/ εὐσέβεια
+no	εὐσεβι	h_hs fem
+no	εὐ-τελι	h_hs stem_acc fem ionic	lemmatize w/ εὐτέλεια
+no	εὐ-τελει	h_hs stem_acc fem ionic
+le	ἐφεδρεία
+no	ἐφεδρει	h_hs stem_acc fem
+no	ἐφεδρι	h_hs stem_acc fem	ADD this form
+le	ἐφηβεία
+no	ἐφηβει	h_hs stem_acc fem
+le	ἐφηβία			Merge w/previous
+no	ἐφηβι	h_hs fem
+le	ζωογονία			this is correct lemma
+no	ζωογονι	h_hs fem
+le	ζῳογονία			Merge w/previous
+no	ζῳογονι	h_hs fem
+le	ζωοθηρία			Merge w/next
+no	ζωοθηρι	h_hs fem
+le	ζῳοθηρία			this is correct lemma
+no	ζῳοθηρι	h_hs fem
+le	ἡλιοκαία			καΐα
+no	ἡλιοκαι	h_hs fem
+le	Ἡλιοστασία		change to lowercase ἡλιοστασία
+no	Ἡλιοστασι	h_hs fem	ἡλιοστασι
+le	θερμολουσία
+no	θερμολουσι	h_hs fem
+le	θερμολουτία		lemmatize w/previous
+no	θερμολουτι	h_hs fem
+le	θευπροπία		lemmatize w/ θεοπροπία
+no	θευπροπι	h_hs fem
+le	θευφορία		lemmatize w/ θεοφορία
+no	θευφορι	h_hs fem
+le	θεωρία			merge duplicate
+no	θεᾱρι	h_hs stem_acc fem doric
+le	θεωρία
+no	θεωρι	h_hs stem_acc fem
+le	θιαωρία			merge w θεωρία
+no	θιαωρι	h_hs fem
+le	ἰδιοπραγία		remove this duplicate
+no	ἰδιοπραγι	h_hs fem
+le	ἰδιοπρᾱγία
+no	ἰδιοπρᾱγι	h_hs fem
+le	ἱδρωτοποιποιία	bad hyphen ἱδρωτοποιία
+no	ἱδρωτοποιποιι	h_hs fem	ἱδρωτοποιι
+le	ἱερομηϝία		delete, bad data entry
+no	ἱερομηϝι	h_hs fem	" 
+le	ἰμπλατία		change lemma to ἐμπλατία
+no	ἰμπλατι	h_hs fem
+le	ἱππωνεία		merge w/ next
+no	ἱππωνει	h_hs stem_acc fem
+le	ἱππωνία
+no	ἱππωνι	h_hs fem stem_acc
+le	ἱστιατορία		merge w/ ἑστιατορία
+no	ἱστιατορι	h_hs fem
+le	ἱστουρψία		delete, bad data entry
+no	ἱστουρψι	h_hs fem	" 
+le	Ἰχνεία		not found
+no	Ἰχνει	h_hs fem
+le	ἰχνηλασία
+no	ἰχνηλασι	h_hs fem
+le	ἰχνηλεία		bad data. 
+no	ἰχνηλει	h_hs fem	bad data. merge following 2 w/ ἰχνηλασία
+*no	ἰχνηλατι	h_hs fem
+*no	ἰχνηλατει	h_hs fem
+le	καδμία		change to lemma καδμεία
+no	καδμι	h_hs fem
+ADD no	καδμει	h_hs fem   < NEW
+le	καινοποία		change to lemma καινοποιΐα
+no	καινοποι	h_hs fem	form καινοποιι
+le	καιρεία		delete; bad data. see next entry
+no	καιρει	h_hs fem	delete
+le	καιροπτία		NEW
+no	καιροπτι	h_hs fem	NEW
+no	καιροπτει	h_hs fem	NEW
+le	Καισαρία		JOIN with Καισάρεια
+no	Καισαρι	h_hs fem geog_name
+le	Καλβία
+no	Καλβι	h_hs fem pers_name
+le	καλλία			REMOVE
+no	καλλι	h_hs fem stem_acc	remove
+le	καλλιαρία
+no	καλλιαρι	h_hs fem
+no	καλλιερι	h_hs fem		ADD
+le	καλοκαγαθία			DROP, merge w/next
+no	καλοκαγαθι	h_hs stem_acc fem
+le	καλοκἀγαθία
+no	κᾰλοκἀγᾰθι	h_hs stem_acc fem
+le	κασία
+no	κᾰσι	h_hs stem_acc fem
+le	κασσία			MERGE w/previous
+no	κασσι	h_hs fem
+le	κατία			DELETE bad data
+no	κατι	h_hs fem
+le	κατακολουθία			NEW affects several lemmas
+no	κατακολουθι	h_hs fem		NEW
+le	κατονομαξία			lemmatize w/ next
+no	κατονομαξι	h_hs fem
+le	κατονομασία
+no	κατονομασι	h_hs fem
+le	κενεαγορία			DELETE (see following)
+no	κενεαγορι	h_hs fem
+le	κενεᾱγορία
+no	κενεαγορι	h_hs fem
+le	κενταυρομαχία			DELETE (see next)
+no	κενταυρομαχι	h_hs fem stem_acc
+le	Κενταυρομαχία
+no	Κενταυρο-μᾰχι	h_hs stem_acc fem
+le	κεραμεία
+no	κερᾰμει	h_hs stem_acc fem
+le	κεραταρχία
+no	κεραταρχι	h_hs fem
+no	κερατι	h_hs,fem,stem_acc	something bad	delete
+no	ι	h_hs fem		something bad
+le	κιναιδεία
+no	κιναιδει	h_hs fem
+le	κιναιδία			delete merge w/previous
+no	κῐναιδι	h_hs stem_acc fem
+le	κλοπεία			merge w/κλωπεία
+no	κλοπει	h_hs fem
+le	κλωπεία
+no	κλωπει	h_hs fem stem_acc
+le	κολωνεία			merge w/κολωνία
+no	κολωνει	h_hs fem
+le	κολωνία
+no	κολωνι	h_hs stem_acc fem
+le	κορμολογία
+no	κορμολογι	h_hs fem
+le	Κορνηλία
+no	Κορνηλι	h_hs fem pers_name
+le	κορταία			lemmatize w/χορταία
+no	κορται	h_hs fem
+le	κορυθθαλλία			DELETE see next
+no	κορυθθαλλι	h_hs fem
+le	Κορυθαλία			NEW
+no	Κορυθαλι	h_hs fem
+no	Κορυθαλλι	h_hs fem
+le	κρατιστ&λτ;ε&γτ;ία		DELETE
+no	κρατιστ&λτ;ε&γτ;ι	h_hs fem
+le	κρατιστεία			NEW
+no	κρατιστει	h_hs fem
+le	Κυκλογραφία		DELETE	lower case words here
+no	Κυκλογραφι	h_hs fem
+le	κυκλογραφία		NEW	lower case
+no	κυκλογραφι	h_hs fem
+le	κυκνία			DELETE and check for -ίας
+no	κυκνι	h_hs fem stem_acc
+le	Κυφαρισσία		LEMMATIZE w/ Κυπαρισσία
+no	Κυφαρισσι	h_hs fem
+le	κωδία		LEMMATIZE w/ κώδεια
+no	κωδι	h_hs fem
+le	λαμπαδοδρομία		LEMMATIZE w/ λαμπαδηδρομία
+no	λαμπαδοδρομι	h_hs fem
+le	λειτουργησία
+no	λειτουργησι	h_hs fem
+*le	λειτουργία		DELETE, duplicate of next
+*no	λῃτουργι	h_hs stem_acc fem
+le	λειτουργία
+no	λειτουργι	h_hs stem_acc fem
+no	λῃτουργι	h_hs stem_acc fem
+le	λογεία
+no	λογει	h_hs fem
+le	λογία		MERGE w/previous, λογεία
+no	λογι	h_hs stem_acc fem
+le	Λυσιμαχία		MERGE with Λυσιμάχεια
+no	Λυσιμαχι	h_hs fem
+le	μαγοφονία		ADD omikron, μαγΟφονία
+no	μαγοφονι	h_hs fem
+le	μαραυγαυγεία		DELETE see below
+no	μαραυγαυγει	h_hs fem	DELETE
+le	μαραύγεια		(accent unclear but using LSJ's first)
+no	μαραυγει	h_hs fem	no stem_acc needed
+le	μαραυγία
+no	μαραυγι	h_hs fem
+le	μαργαρογονία
+no	μαργαρογονι	h_hs fem
+le	Μαργιτεία
+no	Μαργιτει	h_hs fem
+le	Μαργιτομανία		ADD omikron
+no	Μαργιτομανι	h_hs fem	ADD omikron
+le	ματουσία			ghost word? DELETE
+no	ματουσι	h_hs fem stem_acc
+le	μεγαληνορία			merge these two
+no	μεγᾰλᾱνορι	h_hs stem_acc fem  doric
+le	μεγαληνορία			merge w/previous
+no	μεγᾰλ-ηνορι	h_hs stem_acc fem
+le	μεθοδεία
+no	μεθοδει	h_hs stem_acc fem
+le	μεθοδία			merge w/previous
+no	μεθοδι	h_hs fem
+le	Μελανθεία		CHANGE lemma to Μελάνθεια
+no	Μελανθει	h_hs fem pers_name
+le	μολυβδοχοία			add diaeresis χοΐα
+no	μολυβδοχοι	h_hs fem
+le	μοναρχεία		LEMMATIZE w/ next
+no	μοναρχει	h_hs fem
+le	μοναρχία
+no	μοναρχι	h_hs stem_acc fem
+no	μουναρχι	h_hs stem_acc fem  ionic
+le	μουία
+no	μουι	h_hs fem
+le	Μουνυχία		change lemma to Μουνιχία etc. see suppl. 
+no	Μουνυχι	h_hs fem	lemmatize with Μουνιχία
+le	μουνυχία		delete
+no	μουνῠχι	h_hs stem_acc fem	lemmatize w/ Μουνιχία
+le	ναυαγία
+no	ναυαγι	h_hs,stem_acc,fem	DELETE:duplicate of next
+le	ναυαγία
+no	"ναυγᾱγι	h_hs,fem	stem_acc"	DELETE
+no	"ναυᾱγι	h_hs,fem	stem_acc"	NEW
+no	ναυηγι	h_hs,fem,stem_acc ionic
+le	νεφελοκοκκυγία			MERGE w/next
+no	νεφελοκοκκυγι	h_hs fem
+le	Νεφελοκοκκυγία
+no	Νεφελο-κοκκῡγι	h_hs stem_acc fem
+le	νουθεσία
+no	νου-θεσι	h_hs stem_acc fem
+le	νουθετεία
+no	νουθετει	h_hs fem
+le	νουθετία			Merge w/previous
+no	νουθετι	h_hs fem
+le	Νουμαντία
+no	Νομαντι	h_hs fem
+no	Νουμαντι	h_hs fem		Add this form
+le	Νυχία		More like lemma νύχιος, epithet??
+no	Νυχι	h_hs fem geog_name
+le	ξενοδοχία
+no	ξενοδοχι	h_hs fem stem_acc
+le	ξενοδοχία
+no	ξενοδοχι	h_hs stem_acc fem	DUPLICATE
+le	οἰνοχοεία
+no	οἰνοχοει	h_hs fem
+le	οἰνοχοία		LEMMATIZE w/previous, diaeresis οἰνοχοΐα
+no	οἰνοχοι	h_hs fem
+le	Ὀκρησία
+no	Ὀκρησι	h_hs fem pers_name
+le	Ὀκρισία			lemmatize w/previous
+no	Ὀκρισι	h_hs fem pers_name
+le	ὀλιγαρκία
+no	ὀλιγαρκι	h_hs fem
+le	ὁμιλία
+no	ὁμῑλι	h_hs stem_acc fem
+no	οὐμῑλι	h_hs stem_acc fem  epic	not found
+le	ὁμοιομερεία		correct accent to ὁμοιομέρεια
+no	ὁμοιομερει	h_hs stem_acc fem	NO stem_acc
+le	ὀξυδερκία
+no	ὀξυδερκι	h_hs fem stem_acc
+le	ὀξυδορκία			Merge w/previous
+no	ὀξυδορκι	h_hs fem stem_acc
+le	ὀξυρεγμία
+no	ὀξυρεγμι	h_hs fem
+le	ὀξωρεγμία			Merge w/previous
+no	ὀξωρεγμι	h_hs fem
+le	Ὀρθεία
+no	Ὀρθει	h_hs fem
+le	Ὀρθία			Merge w/ previous
+no	Ὀρθι	h_hs stem_acc fem
+le	ὀρθωσία
+no	ὀρθωσι	h_hs fem
+le	Ὀρθωσία			DEL This is fem adj w/ὀρθώσιος
+no	Ὀρθωσι	h_hs stem_acc fem
+le	ὀρφανεία			MERGE w/next
+no	ὀρφανει	h_hs fem
+le	ὀρφανία
+no	ὀρφᾰνι	h_hs stem_acc fem
+le	οὐγκία
+no	οὐγκι	h_hs fem
+ADD no	οὐγγι
+le	οὑστερομεινία		MERGE w/lemma ὑστερομηνία
+no	οὑστερομεινι	h_hs fem
+le	Παιονία
+no	Παιονι	h_hs fem
+le	παλιροία		Merge with lemma παλίρροια. 
+no	παλιροι	h_hs fem stem_acc	EDIT to add second ρ, lemma παλίρροια. 
+le	παραλληλία			DUPLICATE
+no	παραλληλι	h_hs fem
+le	παραλληλία
+no	παραλληλι	h_hs fem
+le	παρεδρεία		Lemmatize w/ next
+no	παρεδρει	h_hs fem
+le	παρεδρία
+no	παρεδρι	h_hs fem
+le	παρθενεία			Lemmatize w/ next
+no	παρθενει	h_hs stem_acc fem
+le	παρθενία	
+no	παρθενι	h_hs stem_acc fem
+le	Παρθῦαία			DELETE; wrong syll quant
+no	Παρθῡαι	h_hs fem
+le	Παρθυαία			This one is correct
+no	Παρθυαι	h_hs stem_acc fem
+le	περιοδεία
+no	περι-οδει	h_hs stem_acc fem
+no	περι-οδι	h_hs stem_acc fem
+le	περιοδία		DELETE; already merged w/previous
+no	περιοδι	h_hs fem
+le	περιπλευμονία
+no	περι-πλευμονι	h_hs stem_acc fem
+no	περι-πνευμονι	h_hs stem_acc fem
+le	περιπνευμονία		DELETE; already merged w/previous
+no	περιπνευμονι	h_hs fem
+no	Πλαται	h_hs,fem,pl	REMOVE. it's Πλάταια or Πλαταιαί
+no	Πλαται	h_hs,fem,pl suff_acc
+le	πλευμονία
+no	πλευμονι	h_hs fem
+no	πνοι	h_hs,fem,suff_acc epic
+no	πνοι	h_hs,fem epic
+le	ποιία		DATA ENTRY: σπονδοποιία below
+no	ποιι	h_hs fem
+le	σπονδοποιία		NEW
+no	σπονδοποιι	h_hs fem
+le	πολιτεία
+no	πολῑτει	h_hs stem_acc fem
+le	Πολιτεία
+no	Πολιτει	h_hs fem is_constitution	!! merge w/previous
+le	πολυαναλνωσία	for λ read γ DELETE this
+no	πολυαναλνωσι	h_hs fem	delete
+le	πολυαναγνωσία	NEW
+no	πολυαναγνωσι	h_hs fem	new
+le	πολυηκοία			ηκοΐα
+no	πολυηκοι	h_hs fem
+le	πολυθεία			θεΐα
+no	πολυθει	h_hs fem
+le	πολυιδρεία
+no	πολυϊδρει	h_hs stem_acc fem
+ADD no	πολυϊδρι
+le	πρακία		DELETE data entry issue see next
+no	πρακι	h_hs fem  	DELETE
+le	πρακτορεία		NEW
+no	πρακτορει	h_hs fem  	new
+no	πρακτορι	h_hs fem  	new
+le	προαγωγεία
+no	προᾰγωγει	h_hs stem_acc fem
+le	προαγωγία		MERGE w/previous
+no	προαγωγι	h_hs fem
+le	προανλία		DELETE data issue see next
+no	προανλι	h_hs fem	delete; check surrounding words
+le	προαυλία		NEW
+no	προαυλι	h_hs fem	new
+**le	Προμαθεία		change accent and sp. to προμήθεια lemma, personification, 
+no	Προμαθει	h_hs fem pers_name keep as no under προμήθεια/Προμήθεια lemma
+le	προμαντεία
+no	προμαντει	h_hs stem_acc fem
+no	προμαντηι	h_hs stem_acc fem  ionic
+le	προμαντηία		DELETE
+no	προμαντηι	h_hs fem	DELETE see above "ionic"
+le	προξενία
+no	προξενι	h_hs stem_acc fem
+**le	προξεννία		DELETE merge with previous
+no	προξεννι	h_hs fem	add to προξενία
+le	προοικονομία		ADD
+no	προοικονομι	h_hs fem	ADD
+le	προοικοϝομία		DELETE
+no	προοικοϝομι	h_hs fem	DELETE
+**le	προσεδρεδρία		DELETE
+no	προσεδρεδρι	h_hs fem	DELETE
+le	προσεδρεία
+no	προσεδρει	h_hs stem_acc fem
+no	προσεδρι	h_hs stem_acc fem  poetic	(DELETE "poetic" I guess)
+le	προσεδρία		DELETE
+no	προσεδρι	h_hs stem_acc fem	DELETE
+**le	προτανεία	LEMMATIZE AS πρυτανεία
+no	προτανει	h_hs fem
+le	προυπεργασία		need diaeresis προϋπεργασία
+no	προυπεργασι	h_hs fem
+le	πυγμομαχία
+no	πυγμομαχι	h_hs fem	SCRAP THIS LEMMA (f.l. that is rejected reading)
+le	ῥαθυμία
+no	ῥαθυμι	h_hs fem
+**le	ῥᾳθυμία**		delete this lemma; lemmatize as ῥαθυμία
+no	ῥᾳθῡμι	h_hs stem_acc fem
+**le	*̓ραρία		This name has a smooth breathing supposedly. 
+no	*̓ραρι	h_hs fem
+*le	ρροπία		MYSTERY orphan suffix. delete.
+*no	ρροπι	h_hs fem 
+##Never mind. Based on LSJ lemmata I'm seeing in this file, we are missing: 
+le	ὀξυρροπία		ADD
+no	ὀξυρροπι	h_hs fem 
+##Other dicos also have: ἀνισορροπία, καταρροπία. 
+le	ἀνισορροπία		ADD
+no	ἀνισορροπι	h_hs fem 
+le	καταρροπία		ADD
+no	καταρροπι	h_hs fem 
+le	σαλακωνεία
+no	σαλακωνει	h_hs fem
+**le	σαλακωνία		lemmatize with previous,σαλακωνεία**
+no	σαλακωνι	h_hs fem
+**le	Σαμαρεία		MIDLID error, see Σαμάρεια
+no	Σᾰμᾰρει	h_hs stem_acc fem
+**le	σελήνη		LEMMA was missing here! σεληναία etc = σελήνη
+no	σεληναι	h_hs stem_acc fem
+no	σελᾱναι	h_hs stem_acc fem  doric
+le	σκιατραφία
+no	σκιᾱτρᾰφι	h_hs stem_acc fem
+*le	σκιατροφία		LEMMATIZE with σκιατραφία above
+*no	σκιᾱτροφι	h_hs stem_acc fem
+le	σκοτεία
+no	σκοτει	h_hs fem	lemmatize as σκοτία below
+le	σκοτία
+no	σκοτι	h_hs stem_acc fem
+le	στολαρχία		ADDED from Pape (chance find)
+no	στολαρχι	h_hs fem
+**le	στρατία		DELETE
+no	στρᾰτι	h_hs suff_acc fem	lemmatize as στρατιά. Rare errors until late (vita Alex) (or incompetent editors of course)
+le	Στρατία	ADDED THIS LEMMA, city and divine epithet. 
+no	Στρᾰτι	h_hs suff_acc fem: 	proper name/adj. 
+*le	στρυπτηρία
+no	στρυπτηρι	h_hs fem	=>στυπτηρία
+*le	συμβοηθεία		CHANGE to συμβοήθεια (originally error in MidLid so may already be there from LSJ)
+*no	συμβοηθει	h_hs stem_acc fem
+*le	συμβουλεία
+*no	συμβουλει	h_hs fem	lemmatize with next, συμβουλία
+le	συμβουλία
+no	συμ-βουλι	h_hs stem_acc fem
+**le	συμπαθία
+no	συμπᾰθι	h_hs stem_acc fem	lemmatize with συμπάθεια
+le	συμφυία		usu diaeresis συμφυΐα
+no	συμφυι	h_hs fem
+**le	συνηθία
+no	συνηθι	h_hs fem	lemmatize with συνήθεια
+**le	συννεφία
+no	συννεφι	h_hs fem	lemmatize with συννέφεια
+le	Ταρπηία		diaeresis often preferred. Ταρπηΐα
+no	Ταρπηι	h_hs fem pers_name
+**le	τεκνοφαγοσφαγία	DELETE, REPLACE w/ NEXT PAIR
+*no	τεκνο-φαγοσφᾰγι	h_hs stem_acc fem	REPLACE w/ NEXT
+le	τεκνοσφαγία	Data source? earliest is 4/5th AD
+no	τεκνο-σφᾰγι	h_hs stem_acc fem
+**le	τελωνεία
+no	τελωνει	h_hs fem	MERGE with next
+le	τελωνία
+no	τελωνι	h_hs stem_acc fem
+**le	τιθηνεία
+no	τιθηνει	h_hs fem	MERGE with next
+le	τιθηνία
+no	τιθηνι	h_hs fem
+**le	Τιτανομαχία
+no	Τιτανομαχι	h_hs fem is_title	MERGE with next
+le	τιτανομαχία
+no	τιτανομαχι	h_hs fem stem_acc
+le	τροπαία
+no	τροπαι	h_hs,fem,stem_acc	(really an adj of τροπαῖος)
+le	τροχιλεία
+no	τροχιλει	h_hs fem
+***le	τροχιλία		DELETE
+no	τροχῐλι	h_hs stem_acc fem	add to previous, τροχιλεία
+**le	ὑγεία		DELETE lemma
+no	ὑγει	h_hs,stem_acc,fem	refer to ὑγίεια
+le	ὑδραλεταλετία		CHANGE to ὑδραλετία
+no	ὑδραλεταλετι	h_hs fem	CHANGE to ὑδραλετι
+**le	ὑηνεία
+no	ὑηνει	h_hs fem	lemmatize as next item, ὑηνία
+le	ὑηνία
+no	ὑηνι	h_hs stem_acc fem
+**le	ὑπερβολαία
+no	ὑπερβολαι	h_hs fem	Lemmatize as adj ὑπερβολαῖος
+le	φθία			DELETE
+no	φθι	h_hs,stem_acc,fem	DELETE
+le	Φθία
+no	Φθι	h_hs fem pers_name	settlement not person
+**le	φιλεκαγαθία
+no	φιλεκαγαθι	h_hs fem	>refer to lemma φιλοκἀγαθία
+le	φιλοζωθεία		DELETE data entry error! 
+no	φιλοζωθει	h_hs fem	DELETE data entry error! 
+le	φιλοθεΐα		Replacement
+no	φιλοθει	h_hs fem	Replacement 
+le	φιλοζωία		Nice to have a diaeresis φιλοζωΐα
+no	φιλοζωι	h_hs fem
+***le	φιλομαθία
+no	φιλομαθι	h_hs fem	Lemmatize with φιλομάθεια
+***le	φιλονεικία		DELETE lemma
+no	φῐλονεικι	h_hs stem_acc fem  > go to following: φιλονικία
+no	φῐλονῑκι	h_hs stem_acc fem
+le	φιλονικία
+no	φιλονικι	h_hs fem	
+le	φοβοθεία		Need diaeresis: φοβοθεΐα
+no	φοβοθει	h_hs fem
+le	φορβαία
+no	φορβαι	h_hs fem	I would prob put with φορβειά
+le	φρεατία
+no	φρεᾱτι	h_hs stem_acc fem
+le	φρητία		DELETE and merge
+no	φρητι	h_hs fem	add to φρεατία above
+le	φυλία
+no	φῠλι	h_hs stem_acc fem
+****le	φυλλία***		DELETE and add no φυλλία to previous
+no	φυλλι	h_hs stem_acc fem
+le	φυταλία		REMOVE and replace with φυταλιά
+no	φῠτᾰλι	h_hs stem_acc fem	<= WRONG
+no	φῠτᾰλι	h_hs suff_acc fem	<=RIGHT, I bet.
+le	χαλκιεία
+no	χαλκιει	h_hs fem	add as alt fem adj to χαλκιαῖος lemma
+le	χερσεία
+no	χερσει	h_hs fem
+no	χερσι	h_hs fem	ADD as alt spelling
+le	χερσοκοπία
+no	χερσοκοπι	h_hs fem
+le	χλαμυδουργία
+no	χλᾰμῠδουργι	h_hs stem_acc fem
+le	χλαμυδουρψία
+no	χλαμυδουρψι	h_hs fem	DELETE; data entry error for previous
+le	χοιρωδία
+no	χοιρωδι	h_hs fem
+no	χοιρωδει		ADD mentioned as alt spelling (in Pape)
+le	χολημεσία
+no	χολημεσι	h_hs fem
+no	χολεμεσι	h_hs fem	ADD This is mentioned as alt spelling.. 
+le	χοπρτοκοπία
+no	χοπρτοκοπι	h_hs fem	CORR χορτοκοπία :likely to affect a wide range of words!
+le	χοπρτολογία
+no	χοπρτολογι	h_hs fem	χορτολογία
+le	χοπρτοπγηία
+no	χοπρτοπγηι	h_hs fem	χορτοπηγία - additional transcription error
+le	χωρμετρία
+no	χωρμετρι	h_hs fem	CORRECT lemma to χωρομετρία
+le	ψυχρουδρία
+no	ψυχρουδρι	h_hs fem  Need diaeresis: ψυχροϋδρία
+le	ψωία
+no	ψωι	h_hs fem fine; Lemma ψωΐα LSJ = ψώα
+le	ὡριμαία
+no	ὡριμαι	h_hs fem	really by origin an adj but no harm done.
+le	ὡφελεία
+no	ὡφελει	h_hs fem stem_acc</item>	SCRAP THIS WORD. Three instances in TLG of this typo for ὠφέλεια, different accent and smooth breathing. 
+Prob need to add ὠφελία with variant i for ei under ὠφέλεια
+le	ϝεργασία
+no	ϝεργασι	h_hs fem	LEMMA should be ἐργασία
+le	ϝοικία
+no	ϝοικι	h_hs fem	LEMMA should be οἰκία
